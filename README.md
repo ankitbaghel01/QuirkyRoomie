@@ -15,11 +15,18 @@ git clone <repository-url>
 cd QuirkyRoomie
 
 for Backend -
-cd server 
+
+cd server
+
 npm install
+
 npm start 
 
+
 for frontend-
+
 cd quirkyroomie-frontend
+
 npm install
+
 npm run dev
